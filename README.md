@@ -1,0 +1,1 @@
+This was a simple rock, paper scissors game for the Odin Project.
